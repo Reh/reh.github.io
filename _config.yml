@@ -28,7 +28,7 @@ twitter_username: vias
 github_username:  reh
 
 # Build settings
-theme: jekyll-theme-leaf
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
